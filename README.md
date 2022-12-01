@@ -1,1 +1,1 @@
-Task o Where am I
+shell_permissions
